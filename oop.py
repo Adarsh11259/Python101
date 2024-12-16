@@ -1,3 +1,4 @@
+# comments haru ni hala na
 class Character:
     def __init__(self, rank, speed):
         self.rank = rank
